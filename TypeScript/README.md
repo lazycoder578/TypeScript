@@ -50,7 +50,7 @@ addNumbers(20, "30"); // error
 // without typescript
 let x;
 x = 20; // correct
-x = "anisul"; // correct
+x = "Kader"; // correct
 x = true; // correct
 x = [10, 20]; // correct
 
